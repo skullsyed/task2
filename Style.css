@@ -1,0 +1,91 @@
+.name-s{
+
+    position: relative;
+    left: 70%;
+    padding-bottom: 10px;
+    font-weight: bold;
+ 
+}
+.email-d{
+    position: relative;
+    left: 70.5%;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+.phoneNo-d{
+    position: relative;
+    left: 67.5%;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+
+.numberOfSeats-d{
+    position: relative;
+    left: 62.5%;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+
+.attendee-d{
+    position: relative;
+    left: 60%;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+
+.submit-d{
+    position: relative;
+    left: 83%;
+    width: 200px;
+    font-weight: bold;
+}
+
+.submit{
+    position: relative;
+    right: 35%;
+    width: 65px;
+    height: 30px;
+}
+.cancel{
+    position: relative;
+    right: 35%;
+    width: 65px;
+    height: 30px;
+    padding-right: 30px;
+}
+.header{
+    position: relative;
+    text-align: center;
+}
+.sub-header{
+    position: relative;
+    text-align: center;
+    /* border: 2px solid black; */
+}
+.outer-line{
+    border: 2px solid black;
+    padding: 20px;
+    margin: 50px;
+}
+.box-1{
+    border: 2px solid black;
+    padding:20px;
+}
+.image{
+    border: 2px solid black;
+    width: 150px;
+    height: 130px;
+    position: relative;
+    top: -170px;
+    left: 80px;
+}
+/* .image-border{
+    border: 2px solid black;
+    position: relative;
+    padding: 10px;
+    width: 100px;
+    right: 200px;
+    height: 100px;
+    /* top: -10px; */
+    /* margin: 100px; */
+
